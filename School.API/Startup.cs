@@ -45,6 +45,12 @@ namespace School.API
             services.AddScoped<IStdCourseRepository, StdCourseRepository>();
             services.AddScoped<IStdCourseService, StdCourseService>();
 
+            services.AddScoped<ILoginService, LoginService>();
+            services.AddScoped<IRoleService, RoleService>();
+
+            services.AddScoped<ILoginRepository, LoginRepository>();
+            services.AddScoped<IRoleRepository, RoleRepository>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
