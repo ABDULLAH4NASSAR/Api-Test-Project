@@ -10,7 +10,7 @@ using System.Text;
 
 namespace School.infra.Repository
 {
-    internal class RoleRepository : IRoleRepository
+    public class RoleRepository : IRoleRepository
     {
         private readonly DBContaxt dBContaxt;
         public RoleRepository(DBContaxt dBContaxt)
