@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\School.API\School.infra\bin\Debug\netcoreapp3.1\School.infra.deps.json
+C:\Users\A\source\repos\School.API\School.infra\bin\Debug\netcoreapp3.1\School.infra.runtimeconfig.json
+C:\Users\A\source\repos\School.API\School.infra\bin\Debug\netcoreapp3.1\School.infra.runtimeconfig.dev.json
+C:\Users\A\source\repos\School.API\School.infra\bin\Debug\netcoreapp3.1\School.infra.dll
+C:\Users\A\source\repos\School.API\School.infra\bin\Debug\netcoreapp3.1\School.infra.pdb
+C:\Users\A\source\repos\School.API\School.infra\bin\Debug\netcoreapp3.1\School.Core.dll
+C:\Users\A\source\repos\School.API\School.infra\bin\Debug\netcoreapp3.1\School.Core.pdb
+C:\Users\A\source\repos\School.API\School.infra\obj\Debug\netcoreapp3.1\School.infra.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\School.API\School.infra\obj\Debug\netcoreapp3.1\School.infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\School.API\School.infra\obj\Debug\netcoreapp3.1\School.infra.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\School.API\School.infra\obj\Debug\netcoreapp3.1\School.infra.AssemblyInfo.cs
+C:\Users\A\source\repos\School.API\School.infra\obj\Debug\netcoreapp3.1\School.infra.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\School.API\School.infra\obj\Debug\netcoreapp3.1\School.infra.csproj.CopyComplete
+C:\Users\A\source\repos\School.API\School.infra\obj\Debug\netcoreapp3.1\School.infra.dll
+C:\Users\A\source\repos\School.API\School.infra\obj\Debug\netcoreapp3.1\School.infra.pdb
+C:\Users\A\source\repos\School.API\School.infra\obj\Debug\netcoreapp3.1\School.infra.genruntimeconfig.cache
